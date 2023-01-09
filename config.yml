@@ -1,0 +1,19 @@
+baseURL: 'http://example.org/'
+languageCode: en-us
+title: Velvetvine
+theme: "PaperMod"
+staticDir: public
+params:
+    profileMode:
+        enabled: true
+        title: "Velvetvine" # optional default will be site title
+        subtitle: "Computer Science Developer (also Tech Hardware Hippie)"
+        imageUrl: "https://i.kym-cdn.com/photos/images/facebook/001/431/201/40f.png" # optional
+        imageTitle: "Profile Picture" # optional
+        imageWidth: 120 # custom size
+        imageHeight: 120 # custom size
+        buttons:
+            - name: "Posts"
+              url: "/posts"
+            - name: "Github"
+              url: "https://github.com/amith2368"
