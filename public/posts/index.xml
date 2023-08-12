@@ -1,18 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Velvetvine</title>
-    <link>http://example.org/posts/</link>
+    <link>http://velvetvine.tech/posts/</link>
     <description>Recent content in Posts on Velvetvine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Jan 2023 14:41:44 +0530</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Jan 2023 14:41:44 +0530</lastBuildDate>
+    
+	<atom:link href="http://velvetvine.tech/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Installing Mac on a Windows PC using Dual Boot</title>
-      <link>http://example.org/posts/install_mac/</link>
+      <link>http://velvetvine.tech/posts/install_mac/</link>
       <pubDate>Mon, 09 Jan 2023 14:41:44 +0530</pubDate>
       
-      <guid>http://example.org/posts/install_mac/</guid>
+      <guid>http://velvetvine.tech/posts/install_mac/</guid>
       <description>Note: Installing a Mac on Windows will be subjected to a violetaion to Apple&amp;rsquo;s End User Agreement but is not illegal to use though To install Mac OS on a Windows laptop with dual boot, you will need to follow these steps:
   First, download the Mac OS installer from the App Store on your Mac.
   Insert a USB drive into your Mac and create a bootable USB install disk using the Mac OS installer.</description>
@@ -20,10 +24,10 @@
     
     <item>
       <title>Device Drivers - Useful Linux Commands and Libraries </title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>http://velvetvine.tech/posts/my-first-post/</link>
       <pubDate>Thu, 22 Dec 2022 01:52:48 -0800</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>http://velvetvine.tech/posts/my-first-post/</guid>
       <description>Why do you need Device Drivers? Device drivers are an essential part of the operating system because they allow the operating system to communicate with the hardware. Without device drivers, the operating system would not know how to interact with the hardware, and the computer would not be able to function. Device drivers provide a standard interface that the operating system can use to communicate with the hardware, which makes it possible for the operating system to work with a wide range of hardware devices from different manufacturers.</description>
     </item>
     

@@ -3,31 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/posts/install_mac/</loc>
+    <loc>http://velvetvine.tech/posts/install_mac/</loc>
     <lastmod>2023-01-09T14:41:44+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>http://velvetvine.tech/posts/</loc>
     <lastmod>2023-01-09T14:41:44+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://velvetvine.tech/</loc>
     <lastmod>2023-01-09T14:41:44+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/my-first-post/</loc>
+    <loc>http://velvetvine.tech/posts/my-first-post/</loc>
     <lastmod>2022-12-22T01:52:48-08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://velvetvine.tech/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://velvetvine.tech/tags/</loc>
   </url>
   
 </urlset>
